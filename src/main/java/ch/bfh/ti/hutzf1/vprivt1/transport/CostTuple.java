@@ -3,19 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ch.bfh.ti.hutzf1.vprivt1;
+package ch.bfh.ti.hutzf1.vprivt1.transport;
 
 /**
  *
  * @author fh
  */
-public class HelloWorld {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class CostTuple {
+    public String id;
+    public int cost;
     
+    public CostTuple(String id, int cost) {
+        this.id = id;
+        this.cost = cost;
+    }    
 }
