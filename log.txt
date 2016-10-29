@@ -1,0 +1,431 @@
+ -- START REGISTRATION PHASE -- 
+M0LISOEU
+M0LISOEU starts registration phase
+M0LISOEU generates fresh tags
+M0LISOEU tag: 43374
+M0LISOEU tag: 194548
+M0LISOEU tag: 942509
+M0LISOEU tag: 278910
+M0LISOEU tag: 1012039
+M0LISOEU tag: 751996
+M0LISOEU tag: 305901
+M0LISOEU tag: 290072
+M0LISOEU tag: 1231497
+M0LISOEU tag: 652577
+M0LISOEU tag: 734633
+M0LISOEU tag: 813407
+M0LISOEU tag: 156068
+M0LISOEU tag: 221994
+M0LISOEU tag: 322234
+M0LISOEU tag: 822054
+M0LISOEU tag: 1134589
+M0LISOEU tag: 1148187
+M0LISOEU tag: 1045284
+M0LISOEU tag: 1002998
+M0LISOEU tag: 1338131
+M0LISOEU tag: 145186
+M0LISOEU tag: 1281604
+M0LISOEU tag: 691801
+M0LISOEU tag: 1138073
+M0LISOEU generates fresh keys
+M0LISOEU key: 1119080
+M0LISOEU generates opening keys for tags
+M0LISOEU tag opening key: 756860
+M0LISOEU tag opening key: 1021224
+M0LISOEU tag opening key: 30326
+M0LISOEU tag opening key: 892802
+M0LISOEU tag opening key: 874406
+M0LISOEU tag opening key: 118187
+M0LISOEU tag opening key: 1249570
+M0LISOEU tag opening key: 406961
+M0LISOEU tag opening key: 830669
+M0LISOEU tag opening key: 475606
+M0LISOEU tag opening key: 204392
+M0LISOEU tag opening key: 831806
+M0LISOEU tag opening key: 1143246
+M0LISOEU tag opening key: 550450
+M0LISOEU tag opening key: 1087180
+M0LISOEU tag opening key: 884397
+M0LISOEU tag opening key: 228232
+M0LISOEU tag opening key: 422444
+M0LISOEU tag opening key: 7714
+M0LISOEU tag opening key: 739540
+M0LISOEU tag opening key: 447040
+M0LISOEU tag opening key: 527543
+M0LISOEU tag opening key: 1312025
+M0LISOEU tag opening key: 945078
+M0LISOEU tag opening key: 1008021
+M0LISOEU generate opening keys for keys
+M0LISOEU key opening key: 966954
+M0LISOEU generates round package
+M0LISOEU adds ID M0LISOEU to round package
+M0LISOEU adds round 0 to round package
+M0LISOEU adds key ZModElement[1119080] to round package
+M0LISOEU adds commit of crypted 43374 to round package
+M0LISOEU adds commit of crypted 194548 to round package
+M0LISOEU adds commit of crypted 942509 to round package
+M0LISOEU adds commit of crypted 278910 to round package
+M0LISOEU adds commit of crypted 1012039 to round package
+M0LISOEU adds commit of crypted 751996 to round package
+M0LISOEU adds commit of crypted 305901 to round package
+M0LISOEU adds commit of crypted 290072 to round package
+M0LISOEU adds commit of crypted 1231497 to round package
+M0LISOEU adds commit of crypted 652577 to round package
+M0LISOEU adds commit of crypted 734633 to round package
+M0LISOEU adds commit of crypted 813407 to round package
+M0LISOEU adds commit of crypted 156068 to round package
+M0LISOEU adds commit of crypted 221994 to round package
+M0LISOEU adds commit of crypted 322234 to round package
+M0LISOEU adds commit of crypted 822054 to round package
+M0LISOEU adds commit of crypted 1134589 to round package
+M0LISOEU adds commit of crypted 1148187 to round package
+M0LISOEU adds commit of crypted 1045284 to round package
+M0LISOEU adds commit of crypted 1002998 to round package
+M0LISOEU adds commit of crypted 1338131 to round package
+M0LISOEU adds commit of crypted 145186 to round package
+M0LISOEU adds commit of crypted 1281604 to round package
+M0LISOEU adds commit of crypted 691801 to round package
+M0LISOEU adds commit of crypted 1138073 to round package
+M0LISOEU send round package to service provider
+OM1QQI5U
+OM1QQI5U starts registration phase
+OM1QQI5U generates fresh tags
+OM1QQI5U tag: 161176
+OM1QQI5U tag: 743720
+OM1QQI5U tag: 984443
+OM1QQI5U tag: 1081933
+OM1QQI5U tag: 748885
+OM1QQI5U tag: 1278734
+OM1QQI5U tag: 998147
+OM1QQI5U tag: 1267607
+OM1QQI5U tag: 264340
+OM1QQI5U tag: 1205599
+OM1QQI5U tag: 4128
+OM1QQI5U tag: 283248
+OM1QQI5U tag: 529730
+OM1QQI5U tag: 780863
+OM1QQI5U tag: 920304
+OM1QQI5U tag: 514838
+OM1QQI5U tag: 984918
+OM1QQI5U tag: 680153
+OM1QQI5U tag: 967998
+OM1QQI5U tag: 793739
+OM1QQI5U tag: 1307756
+OM1QQI5U tag: 966412
+OM1QQI5U tag: 363052
+OM1QQI5U tag: 590544
+OM1QQI5U tag: 391697
+OM1QQI5U generates fresh keys
+OM1QQI5U key: 106505
+OM1QQI5U generates opening keys for tags
+OM1QQI5U tag opening key: 138027
+OM1QQI5U tag opening key: 772455
+OM1QQI5U tag opening key: 1179673
+OM1QQI5U tag opening key: 806429
+OM1QQI5U tag opening key: 1208966
+OM1QQI5U tag opening key: 592061
+OM1QQI5U tag opening key: 1259601
+OM1QQI5U tag opening key: 481101
+OM1QQI5U tag opening key: 843191
+OM1QQI5U tag opening key: 475444
+OM1QQI5U tag opening key: 838417
+OM1QQI5U tag opening key: 1022903
+OM1QQI5U tag opening key: 203667
+OM1QQI5U tag opening key: 14380
+OM1QQI5U tag opening key: 111530
+OM1QQI5U tag opening key: 633700
+OM1QQI5U tag opening key: 717289
+OM1QQI5U tag opening key: 478958
+OM1QQI5U tag opening key: 286245
+OM1QQI5U tag opening key: 959240
+OM1QQI5U tag opening key: 592686
+OM1QQI5U tag opening key: 513197
+OM1QQI5U tag opening key: 39469
+OM1QQI5U tag opening key: 524872
+OM1QQI5U tag opening key: 290723
+OM1QQI5U generate opening keys for keys
+OM1QQI5U key opening key: 945124
+OM1QQI5U generates round package
+OM1QQI5U adds ID OM1QQI5U to round package
+OM1QQI5U adds round 0 to round package
+OM1QQI5U adds key ZModElement[106505] to round package
+OM1QQI5U adds commit of crypted 161176 to round package
+OM1QQI5U adds commit of crypted 743720 to round package
+OM1QQI5U adds commit of crypted 984443 to round package
+OM1QQI5U adds commit of crypted 1081933 to round package
+OM1QQI5U adds commit of crypted 748885 to round package
+OM1QQI5U adds commit of crypted 1278734 to round package
+OM1QQI5U adds commit of crypted 998147 to round package
+OM1QQI5U adds commit of crypted 1267607 to round package
+OM1QQI5U adds commit of crypted 264340 to round package
+OM1QQI5U adds commit of crypted 1205599 to round package
+OM1QQI5U adds commit of crypted 4128 to round package
+OM1QQI5U adds commit of crypted 283248 to round package
+OM1QQI5U adds commit of crypted 529730 to round package
+OM1QQI5U adds commit of crypted 780863 to round package
+OM1QQI5U adds commit of crypted 920304 to round package
+OM1QQI5U adds commit of crypted 514838 to round package
+OM1QQI5U adds commit of crypted 984918 to round package
+OM1QQI5U adds commit of crypted 680153 to round package
+OM1QQI5U adds commit of crypted 967998 to round package
+OM1QQI5U adds commit of crypted 793739 to round package
+OM1QQI5U adds commit of crypted 1307756 to round package
+OM1QQI5U adds commit of crypted 966412 to round package
+OM1QQI5U adds commit of crypted 363052 to round package
+OM1QQI5U adds commit of crypted 590544 to round package
+OM1QQI5U adds commit of crypted 391697 to round package
+OM1QQI5U send round package to service provider
+1U9V84LE
+1U9V84LE starts registration phase
+1U9V84LE generates fresh tags
+1U9V84LE tag: 395639
+1U9V84LE tag: 1050526
+1U9V84LE tag: 270941
+1U9V84LE tag: 1157430
+1U9V84LE tag: 269846
+1U9V84LE tag: 270739
+1U9V84LE tag: 527783
+1U9V84LE tag: 91781
+1U9V84LE tag: 601265
+1U9V84LE tag: 1341459
+1U9V84LE tag: 278960
+1U9V84LE tag: 769932
+1U9V84LE tag: 251187
+1U9V84LE tag: 1236378
+1U9V84LE tag: 141098
+1U9V84LE tag: 371216
+1U9V84LE tag: 67126
+1U9V84LE tag: 1304204
+1U9V84LE tag: 353685
+1U9V84LE tag: 803275
+1U9V84LE tag: 330765
+1U9V84LE tag: 479409
+1U9V84LE tag: 201700
+1U9V84LE tag: 485880
+1U9V84LE tag: 790613
+1U9V84LE generates fresh keys
+1U9V84LE key: 187117
+1U9V84LE generates opening keys for tags
+1U9V84LE tag opening key: 946706
+1U9V84LE tag opening key: 368810
+1U9V84LE tag opening key: 65420
+1U9V84LE tag opening key: 1303130
+1U9V84LE tag opening key: 803262
+1U9V84LE tag opening key: 793276
+1U9V84LE tag opening key: 433947
+1U9V84LE tag opening key: 1264801
+1U9V84LE tag opening key: 224033
+1U9V84LE tag opening key: 1345248
+1U9V84LE tag opening key: 354824
+1U9V84LE tag opening key: 1152820
+1U9V84LE tag opening key: 502015
+1U9V84LE tag opening key: 272813
+1U9V84LE tag opening key: 839893
+1U9V84LE tag opening key: 304192
+1U9V84LE tag opening key: 592843
+1U9V84LE tag opening key: 867932
+1U9V84LE tag opening key: 679817
+1U9V84LE tag opening key: 1186815
+1U9V84LE tag opening key: 362178
+1U9V84LE tag opening key: 272286
+1U9V84LE tag opening key: 286426
+1U9V84LE tag opening key: 947764
+1U9V84LE tag opening key: 1234929
+1U9V84LE generate opening keys for keys
+1U9V84LE key opening key: 331718
+1U9V84LE generates round package
+1U9V84LE adds ID 1U9V84LE to round package
+1U9V84LE adds round 0 to round package
+1U9V84LE adds key ZModElement[187117] to round package
+1U9V84LE adds commit of crypted 395639 to round package
+1U9V84LE adds commit of crypted 1050526 to round package
+1U9V84LE adds commit of crypted 270941 to round package
+1U9V84LE adds commit of crypted 1157430 to round package
+1U9V84LE adds commit of crypted 269846 to round package
+1U9V84LE adds commit of crypted 270739 to round package
+1U9V84LE adds commit of crypted 527783 to round package
+1U9V84LE adds commit of crypted 91781 to round package
+1U9V84LE adds commit of crypted 601265 to round package
+1U9V84LE adds commit of crypted 1341459 to round package
+1U9V84LE adds commit of crypted 278960 to round package
+1U9V84LE adds commit of crypted 769932 to round package
+1U9V84LE adds commit of crypted 251187 to round package
+1U9V84LE adds commit of crypted 1236378 to round package
+1U9V84LE adds commit of crypted 141098 to round package
+1U9V84LE adds commit of crypted 371216 to round package
+1U9V84LE adds commit of crypted 67126 to round package
+1U9V84LE adds commit of crypted 1304204 to round package
+1U9V84LE adds commit of crypted 353685 to round package
+1U9V84LE adds commit of crypted 803275 to round package
+1U9V84LE adds commit of crypted 330765 to round package
+1U9V84LE adds commit of crypted 479409 to round package
+1U9V84LE adds commit of crypted 201700 to round package
+1U9V84LE adds commit of crypted 485880 to round package
+1U9V84LE adds commit of crypted 790613 to round package
+1U9V84LE send round package to service provider
+ -- END REGISTRATION PHASE -- 
+ -- START DRIVING PHASE -- 
+M0LISOEU is driving. Tag 1148187 (123, 30) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 6
+M0LISOEU is driving. Tag 813407 (86, 36) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 8
+M0LISOEU is driving. Tag 1231497 (128, 42) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 3
+M0LISOEU is driving. Tag 813407 (42, 16) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 6
+M0LISOEU is driving. Tag 305901 (30, 21) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 1
+M0LISOEU is driving. Tag 734633 (92, 45) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 3
+M0LISOEU is driving. Tag 1231497 (0, 57) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 6
+M0LISOEU is driving. Tag 322234 (134, 52) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 9
+M0LISOEU is driving. Tag 194548 (112, 25) - Sat Oct 29 13:07:20 UTC 2016
+M0LISOEU value of a toll station is 0
+OM1QQI5U is driving. Tag 680153 (160, 9) - Sat Oct 29 13:07:20 UTC 2016
+OM1QQI5U value of a toll station is 0
+OM1QQI5U is driving. Tag 4128 (103, 63) - Sat Oct 29 13:07:20 UTC 2016
+OM1QQI5U value of a toll station is 5
+OM1QQI5U is driving. Tag 1205599 (95, 21) - Sat Oct 29 13:07:20 UTC 2016
+OM1QQI5U value of a toll station is 0
+1U9V84LE is driving. Tag 67126 (21, 25) - Sat Oct 29 13:07:20 UTC 2016
+1U9V84LE value of a toll station is 3
+1U9V84LE is driving. Tag 269846 (72, 85) - Sat Oct 29 13:07:20 UTC 2016
+1U9V84LE value of a toll station is 9
+1U9V84LE is driving. Tag 270739 (54, 1) - Sat Oct 29 13:07:20 UTC 2016
+1U9V84LE value of a toll station is 2
+1U9V84LE is driving. Tag 91781 (112, 24) - Sat Oct 29 13:07:20 UTC 2016
+1U9V84LE value of a toll station is 9
+ -- END DRIVING PHASE -- 
+ -- START RECONCILIATION PHASE -- 
+M0LISOEU is calculating cost...
+M0LISOEU calculated 42
+M0LISOEU generates opening keys for costs
+M0LISOEU tag opening key: 949498
+M0LISOEU tag opening key: 229723
+M0LISOEU tag opening key: 967061
+M0LISOEU tag opening key: 588011
+M0LISOEU tag opening key: 875387
+M0LISOEU tag opening key: 145976
+M0LISOEU tag opening key: 19873
+M0LISOEU tag opening key: 128601
+M0LISOEU tag opening key: 853023
+M0LISOEU tag opening key: 530629
+M0LISOEU tag opening key: 900447
+M0LISOEU tag opening key: 1061011
+M0LISOEU tag opening key: 1135253
+M0LISOEU tag opening key: 508534
+M0LISOEU tag opening key: 196129
+M0LISOEU tag opening key: 1316201
+M0LISOEU is permutating W and send the package to service provider
+M0LISOEU bi is: 1
+M0LISOEU calculating by service provider
+-----------------------------------
+-----------------------------------
+pp: M0LISOEU
+rp: M0LISOEU
+GStarModElement[876681]
+GStarModElement[312763]
+GStarModElement[1632473]
+GStarModElement[1998705]
+GStarModElement[1658120]
+GStarModElement[1326994]
+GStarModElement[884474]
+GStarModElement[2318386]
+GStarModElement[1833995]
+-----------------------------------
+-----------------------------------
+M0LISOEU service provider calculated 41
+OM1QQI5U is calculating cost...
+OM1QQI5U calculated 5
+OM1QQI5U generates opening keys for costs
+OM1QQI5U tag opening key: 750916
+OM1QQI5U tag opening key: 362673
+OM1QQI5U tag opening key: 1057454
+OM1QQI5U tag opening key: 1031796
+OM1QQI5U tag opening key: 300844
+OM1QQI5U tag opening key: 100595
+OM1QQI5U tag opening key: 57747
+OM1QQI5U tag opening key: 386996
+OM1QQI5U tag opening key: 675587
+OM1QQI5U tag opening key: 578727
+OM1QQI5U tag opening key: 217322
+OM1QQI5U tag opening key: 230428
+OM1QQI5U tag opening key: 109402
+OM1QQI5U tag opening key: 1040956
+OM1QQI5U tag opening key: 443070
+OM1QQI5U tag opening key: 370022
+OM1QQI5U is permutating W and send the package to service provider
+OM1QQI5U bi is: 1
+OM1QQI5U calculating by service provider
+-----------------------------------
+-----------------------------------
+pp: OM1QQI5U
+rp: OM1QQI5U
+GStarModElement[2570360]
+GStarModElement[2449291]
+GStarModElement[2638636]
+-----------------------------------
+-----------------------------------
+OM1QQI5U service provider calculated 5
+1U9V84LE is calculating cost...
+1U9V84LE calculated 23
+1U9V84LE generates opening keys for costs
+1U9V84LE tag opening key: 500918
+1U9V84LE tag opening key: 1249439
+1U9V84LE tag opening key: 8851
+1U9V84LE tag opening key: 365787
+1U9V84LE tag opening key: 811716
+1U9V84LE tag opening key: 952588
+1U9V84LE tag opening key: 633530
+1U9V84LE tag opening key: 281621
+1U9V84LE tag opening key: 1166626
+1U9V84LE tag opening key: 745993
+1U9V84LE tag opening key: 1191193
+1U9V84LE tag opening key: 1023359
+1U9V84LE tag opening key: 432615
+1U9V84LE tag opening key: 662665
+1U9V84LE tag opening key: 976080
+1U9V84LE tag opening key: 414239
+1U9V84LE is permutating W and send the package to service provider
+1U9V84LE bi is: 0
+-----------------------------------
+BI = 0, Service Provider calculates
+-----------------------------------
+GStarModElement[2587139]
+GStarModElement[2587139]
+GStarModElement[608842]
+GStarModElement[608842]
+GStarModElement[2322255]
+GStarModElement[2322255]
+GStarModElement[957031]
+GStarModElement[957031]
+GStarModElement[636875]
+GStarModElement[636875]
+GStarModElement[2301499]
+GStarModElement[2301499]
+GStarModElement[2589720]
+GStarModElement[2589720]
+GStarModElement[374668]
+GStarModElement[374668]
+GStarModElement[345299]
+GStarModElement[345299]
+GStarModElement[544746]
+GStarModElement[544746]
+GStarModElement[1621096]
+GStarModElement[1621096]
+GStarModElement[1501173]
+GStarModElement[1501173]
+GStarModElement[499154]
+GStarModElement[499154]
+GStarModElement[2042681]
+GStarModElement[2042681]
+GStarModElement[2163161]
+GStarModElement[2163161]
+GStarModElement[1824352]
+GStarModElement[1824352]
+-----------------------------------
+-----------------------------------
+1U9V84LE service provider calculated 70
+ -- END RECONCILIATION PHASE -- 

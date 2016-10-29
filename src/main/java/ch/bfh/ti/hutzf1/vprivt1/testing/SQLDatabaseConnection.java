@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ch.bfh.ti.hutzf1.vprivt1.sql;
+package ch.bfh.ti.hutzf1.vprivt1.testing;
 
 import java.sql.*;
 
@@ -30,10 +30,23 @@ public class SQLDatabaseConnection {
 
         // Declare the JDBC objects.  
         Connection connection = null;  
+        Statement stmt = null;  
+        ResultSet rs = null;  
 
         try {  
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             connection = DriverManager.getConnection(connectionString);  
+            
+            // Create and execute an SQL statement that returns some data.  
+            String SQL = "SELECT TOP 10 * FROM Test";  
+            //String SQL = "INSERT INTO Test VALUES (1)";
+            stmt = connection.createStatement();  
+            rs = stmt.executeQuery(SQL);  
+
+            // Iterate through the data in the result set and display it.  
+            while (rs.next()) {  
+                System.out.println(rs.getString(0));  
+            } 
 
         }  
         catch (Exception e) {  
